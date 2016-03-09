@@ -1,4 +1,5 @@
 const binToDecimal = bin => {
+  "use strict";
   const l = bin.length;
   let dec = 0;
   for(let i = l-1; i >= 0; --i) {

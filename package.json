@@ -1,6 +1,6 @@
 {
   "name": "bin-to-decimal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "converts binary numbers into decimal (base 10) ",
   "main": "index.js",
   "scripts": {
